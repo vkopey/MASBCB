@@ -4,6 +4,7 @@
 //---------------------------------------------------------------------------
 USEFORM("Unit1.cpp", Form1);
 USERES("Project1.res");
+USEFILE("Unit1.h");
 //---------------------------------------------------------------------------
 WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 {
